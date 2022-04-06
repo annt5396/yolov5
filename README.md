@@ -1,6 +1,6 @@
 FACE MASK DETECTION
 
-[video demo](https://youtu.be/EgafsdPXKbQ)
+[![video demo](https://youtu.be/EgafsdPXKbQ)](https://youtu.be/EgafsdPXKbQ)
 
 <div align="center">
 <p>
