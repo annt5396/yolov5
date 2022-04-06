@@ -32,4 +32,4 @@ YOLOv5 [release](https://github.com/ultralytics/yolov5/releases).
 
 FACE MASK DETECTION
 
-![VIDEO DEMO](./output.mp4)
+<video src='output.mp4' width=180/>
