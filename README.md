@@ -24,5 +24,5 @@ pip install -r requirements.txt  # install
 
 FACE MASK DETECTION
 
-<video src='./output.mp4' width=180/></video>
+   <video src='output.mp4' width=180/></video>
 </div>
