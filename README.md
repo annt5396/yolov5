@@ -24,4 +24,4 @@ pip install -r requirements.txt  # install
 
 FACE MASK DETECTION
 
-[video demo]('https://youtu.be/EgafsdPXKbQ')
+[video demo](https://youtu.be/EgafsdPXKbQ)
