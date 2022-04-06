@@ -31,3 +31,5 @@ Inference with YOLOv5 and [PyTorch Hub](https://github.com/ultralytics/yolov5/is
 YOLOv5 [release](https://github.com/ultralytics/yolov5/releases).
 
 FACE MASK DETECTION
+
+![VIDEO DEMO](./output.mp4)
