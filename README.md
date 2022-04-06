@@ -1,8 +1,6 @@
 FACE MASK DETECTION
-<div align="center">
-  <a href="https://youtu.be/EgafsdPXKbQ"></a>
-</div>
 
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/EgafsdPXKbQ)
 
 <div align="center">
 <p>
