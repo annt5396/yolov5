@@ -12,7 +12,7 @@
    <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
    <a href="https://www.kaggle.com/ultralytics/yolov5"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a>
    <a href="https://join.slack.com/t/ultralytics/shared_invite/zt-w29ei8bp-jczz7QYUmDtgo6r6KcMIAg"><img src="https://img.shields.io/badge/Slack-Join_Forum-blue.svg?logo=slack" alt="Join Forum"></a>
-</div>
+
 
 
 ```bash
@@ -21,16 +21,8 @@ cd yolov5
 pip install -r requirements.txt  # install
 ```
 
-</details>
-
-<details open>
-<summary>Inference</summary>
-
-Inference with YOLOv5 and [PyTorch Hub](https://github.com/ultralytics/yolov5/issues/36)
-. [Models](https://github.com/ultralytics/yolov5/tree/master/models) download automatically from the latest
-YOLOv5 [release](https://github.com/ultralytics/yolov5/releases).
 
 FACE MASK DETECTION
-<div>
+
 <video src='output.mp4' width=180/>
 </div>
