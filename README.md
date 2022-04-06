@@ -1,3 +1,7 @@
+FACE MASK DETECTION
+
+[video demo](https://youtu.be/EgafsdPXKbQ)
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
@@ -20,8 +24,3 @@ git clone https://github.com/ultralytics/yolov5  # clone
 cd yolov5
 pip install -r requirements.txt  # install
 ```
-
-
-FACE MASK DETECTION
-
-https://youtu.be/EgafsdPXKbQ
