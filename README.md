@@ -1,3 +1,7 @@
+FACE MASK DETECTION
+
+[Watch the video](https://youtu.be/EgafsdPXKbQ)
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
@@ -20,14 +24,3 @@ git clone https://github.com/ultralytics/yolov5  # clone
 cd yolov5
 pip install -r requirements.txt  # install
 ```
-
-</details>
-
-<details open>
-<summary>Inference</summary>
-
-Inference with YOLOv5 and [PyTorch Hub](https://github.com/ultralytics/yolov5/issues/36)
-. [Models](https://github.com/ultralytics/yolov5/tree/master/models) download automatically from the latest
-YOLOv5 [release](https://github.com/ultralytics/yolov5/releases).
-
-FACE MASK DETECTION
